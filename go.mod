@@ -1,4 +1,4 @@
-module github.com/aliyasirnac/bubble-tea
+module github.com/aliyasirnac/bubble-tea-cli
 
 go 1.22.3
 
